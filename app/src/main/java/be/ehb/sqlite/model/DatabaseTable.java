@@ -4,6 +4,9 @@ import androidx.room.Entity;
 import androidx.room.Ignore;
 import androidx.room.PrimaryKey;
 
+// 1.
+// aanmaken van de tabel in de database met de kolommen id, naam en kleur
+//
 @Entity
 public class DatabaseTable {
     @PrimaryKey(autoGenerate = true)
