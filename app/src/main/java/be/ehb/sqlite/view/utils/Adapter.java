@@ -12,8 +12,8 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import be.ehb.sqlite.R;
-import be.ehb.sqlite.model.DatabaseTable;
+    import be.ehb.sqlite.R;
+    import be.ehb.sqlite.model.DatabaseTable;
 
 public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
 

@@ -6,9 +6,18 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_data"
-        android:layout_width="798dp"
+        android:layout_width="150dp"
         android:layout_height="1278dp"
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="1dp"
         tools:listitem="@layout/data_row" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HalloWorld"
+        tools:layout_editor_absoluteX="293dp"
+        tools:layout_editor_absoluteY="151dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
