@@ -11,6 +11,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     // test Branch
+    // test Branch 2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
